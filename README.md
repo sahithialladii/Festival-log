@@ -1,3 +1,3 @@
 # Festival Log
 
-This project logs and showcases cultural festival information in Telugu.
+An AI-powered platform to log and showcase cultural festivals in Telugu.
