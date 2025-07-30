@@ -1,4 +1,3 @@
-
 ---
 title: Festival Log
 emoji: 🎉
@@ -15,7 +14,6 @@ pinned: false
 A Streamlit app to collect, translate, and display Indian festival stories. Built as part of the VISWAM Summer of AI Internship.
 
 Check out the live demo [here](https://huggingface.co/spaces/<your-username>/festival-log).
-
 
 # Festival-log
 # 📊 Streamlit App
