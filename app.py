@@ -5,6 +5,10 @@ import pandas as pd
 from utils import translate_text, extract_keywords
 from db import init_db, insert_entry
 import sqlite3
+import os
+os.environ["STREAMLIT_HOME"] = "./.streamlit"
+os.makedirs("./.streamlit", exist_ok=True)
+
 
 # Initialize DB
 init_db()
