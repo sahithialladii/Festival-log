@@ -70,10 +70,6 @@ if page == "🎉 Festival Gallery":
                             for img_path in row['image_path'].split(';'):
                                 if os.path.exists(img_path):
                                     st.image(img_path, use_container_width=True)
-                                else:
-                                    st.image("default_festival.jpg", use_container_width=True)
-                        else:
-                            st.image("default_festival.jpg", use_container_width=True)
                     with cols[1]:
                         st.markdown(f"#### 🪔 {row['translated'][:30]}...")
                         st.markdown(f"**📝 వివరణ:** {row['translated']}")
