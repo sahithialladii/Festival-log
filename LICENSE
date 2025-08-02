@@ -19,3 +19,22 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN    
 THE SOFTWARE.
+
+
+
+GNU AFFERO GENERAL PUBLIC LICENSE
+                       Version 3, 19 November 2007
+
+Copyright (C) 2025 Alladi Sahithi
+
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+
+[...]
+(This license is too long to fit here entirely. Use the full license from the official source.)
+
+To include the complete license, copy the full version from:  
+https://www.gnu.org/licenses/agpl-3.0.txt
+
+Or run in terminal:
+wget https://www.gnu.org/licenses/agpl-3.0.txt -O LICENSE
+
