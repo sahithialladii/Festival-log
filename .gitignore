@@ -1,0 +1,26 @@
+# Python cache and virtual environment
+__pycache__/
+*.py[cod]
+*.egg-info/
+env/
+venv/
+.venv/
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# VSCode or IDE files
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Uvicorn or poetry files
+uv.lock
+
+# Secrets or config
+*.env
+.env.*

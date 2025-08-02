@@ -1,0 +1,23 @@
+[project]
+name = "festival-log"
+version = "1.0.0"
+description = "An AI-powered, offline-first Streamlit app to document and translate Indian festivals."
+authors = [
+    { name="Alladi Sahithi", email="your@email.com" }
+]
+license = { text = "AGPL-3.0-or-later" }
+readme = "README.md"
+requires-python = ">=3.9"
+
+dependencies = [
+    "streamlit>=1.32.0",
+    "transformers",
+    "torch",
+    "sentencepiece",
+    "pandas",
+    "uvicorn",
+    "python-dotenv"
+]
+
+[tool.uv]
+virtualenvs.in-project = true
