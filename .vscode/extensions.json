@@ -1,7 +1,7 @@
 {
   "recommendations": [
     "ms-python.python",
-    "charliermarsh.ruff",             // ✅ Ruff linter for Python
+    "charliermarsh.ruff",
     "ms-toolsai.jupyter",
     "streetsidesoftware.code-spell-checker"
   ]
