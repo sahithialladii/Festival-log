@@ -1,0 +1,23 @@
+# Changelog
+
+All notable changes to the Festival Log project will be documented here.
+
+## [Unreleased]
+- Planning voice input feature
+- Outreach materials in Telugu
+
+## [v1.0.0] – 2025-08-02
+### Added
+- Initial release of Festival Log 🎉
+- Streamlit app with multilingual festival entry form
+- AI integration for translation to Telugu
+- Home page showing all festival entries
+- Offline-first support and mobile-friendly UI
+
+### Fixed
+- Image upload bug on form
+- Translation error handling for unsupported languages
+
+---
+
+*This project is part of the VISWAM Summer of AI 2025 program*
